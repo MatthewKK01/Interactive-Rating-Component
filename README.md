@@ -23,8 +23,8 @@ This challenge also made for Bitoid Technologies.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/MatthewKK01/Interactive-Rating-Component)
+- Live Site URL: [live site URL here](https://interactive-rating-component-gamma-five.vercel.app/)
 
 ## My process
 
